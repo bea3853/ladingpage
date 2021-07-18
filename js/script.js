@@ -1,4 +1,5 @@
   function Confirma(){
-  alert ("Vamos te direcionar para a página de vendas\ Aproveite o que preparamos para você!");
-  window.location="Direcionarparapaginadedevenda.com";
+  alert ("Vamos te direcionar para a página com as melhores ofertas! *.*  Aproveite o que preparamos para você!");
+  window.location="https://ladingpage.bealves.repl.co";
    }
+   
