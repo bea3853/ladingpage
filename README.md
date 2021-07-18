@@ -1,7 +1,7 @@
 # Lading page para e-commerce  - Desafio Hiring Coders 
 
 
-## Js - HTML -  CSS 
+## JS - HTML -  CSS 
 
 #  Autor
 
