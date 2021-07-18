@@ -1,4 +1,4 @@
-# Lading page para e-commerce  - desafio Hiring Coders 
+# Lading page para e-commerce  - Desafio Hiring Coders 
 
 
 ## Js - HTML -  CSS 
